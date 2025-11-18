@@ -8,6 +8,11 @@ Este documento detalha o processo de análise de dados, desde a extração e tra
 
 A análise é produto do meu trabalho de monografia do curso de Ciências Econômicas na Universidade Federal de Goiás (UFG). Caso identifique algum erro no script ou tenha eventuais dúvidas, só enviar e-mail para: alef.santos62\@hotmail.com. Também estou disponível para consultorias e trabalhos em análise e ciência de dados. Meu perfil linkedin é: [linkedin.com/in/alefsantos42/](https://www.linkedin.com/in/alefsantos42/)
 
+Também foi desenvolvido, a partir do produto deste trabalho, um painel em Power BI com a visualização de dados dos indicadores de trabalho (contribuição previdenciária e jornada média de trabalho), agregado pelas capitais brasileiras. No entanto, deve ser analisado com cautela, visto que não exibi resultados de causalidade. Portanto, recomenda-se como uma análise complementar que deve ser feita integrada a leitura deste script e do trabalho de monografia.
+
+[![Painel BI](https://github.com/4lefSantos/Analisando-efeitos-de-aplicativos-de-transporte/blob/main/Analisando%20efeitos%20de%20aplicativos%20de%20transporte/01_dados/painel_bi.jpg?raw=true)](https://app.powerbi.com/links/vbr6aFEViG?ctid=b1ca7a81-abf8-42e5-98c6-f2f2a930ba36&pbi_source=linkShare)
+*Clique na imagem acima para ser direcionado ao painel.
+
 Abaixo, abriremos as bibliotecas que serão úteis no desenvolvimento do script.
 
 ```{r}
